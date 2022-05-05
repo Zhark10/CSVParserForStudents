@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zhark10/CSVParserForStudents/static/css/main.ed6780e2.css",
+    "main.js": "/Zhark10/CSVParserForStudents/static/js/main.ae5614c4.js",
+    "static/js/787.50793dff.chunk.js": "/Zhark10/CSVParserForStudents/static/js/787.50793dff.chunk.js",
+    "index.html": "/Zhark10/CSVParserForStudents/index.html",
+    "main.ed6780e2.css.map": "/Zhark10/CSVParserForStudents/static/css/main.ed6780e2.css.map",
+    "main.ae5614c4.js.map": "/Zhark10/CSVParserForStudents/static/js/main.ae5614c4.js.map",
+    "787.50793dff.chunk.js.map": "/Zhark10/CSVParserForStudents/static/js/787.50793dff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed6780e2.css",
+    "static/js/main.ae5614c4.js"
+  ]
+}
