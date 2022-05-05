@@ -9,29 +9,11 @@
   color: white;
 }
 
-.App-container {
+.App-card {
   border: 1px solid #0d6efd;
   border-radius: 8px;
   padding: 8px;
   margin: 8px;
 }
 
-.App-button-groups {
-  display: flex;
-  padding: 4px;
-  min-width: 50vw;
-  justify-content: space-between;
-}
 
-.App-main-content {
-  padding: 32px;
-  height: 200px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-}
-
-.App-button {
-  margin: 8px;
-}

@@ -1,0 +1,10 @@
+.Footer-button-groups {
+  display: flex;
+  padding: 4px;
+  min-width: 50vw;
+  justify-content: space-between;
+}
+
+.Footer-button {
+  margin: 8px;
+}

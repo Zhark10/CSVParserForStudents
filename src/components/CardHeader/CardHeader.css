@@ -1,0 +1,10 @@
+.Header-button-groups {
+  display: flex;
+  padding: 4px;
+  min-width: 50vw;
+  justify-content: space-between;
+}
+
+.Header-button {
+  margin: 8px;
+}
