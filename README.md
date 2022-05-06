@@ -13,3 +13,5 @@ In the project directory, you can run:
 ### 2) Start app:
 
 `$ yarn start`
+
+### Demonstration on the [page](https://zhark10.github.io/CSVParserForStudents/)
