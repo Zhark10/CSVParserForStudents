@@ -15,3 +15,10 @@ In the project directory, you can run:
 `$ yarn start`
 
 ### Demonstration on the [page](https://zhark10.github.io/CSVParserForStudents/)
+
+## Supported dictionary format (.csv):
+
+| ENG      | RUS |
+| --------- | -----|
+| subcription  | подписка |
+| ...     |   ... |
